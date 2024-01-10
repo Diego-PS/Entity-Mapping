@@ -50,5 +50,4 @@ for target in target_groupping:
         target_group_file.write(f'{entity}\n')
     target_group_file.close()
 
-print(target_groupping)
 print(len(unmapped_entities))
