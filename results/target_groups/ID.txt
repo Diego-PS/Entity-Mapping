@@ -1,0 +1,8 @@
+CSP
+IP
+APP
+Ifood
+Data
+IMEI
+URL
+HASH
